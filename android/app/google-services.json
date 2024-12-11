@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803523144854",
+    "project_id": "appmascota-adc68",
+    "storage_bucket": "appmascota-adc68.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803523144854:android:31ea4749a5d156af57e6b7",
+        "android_client_info": {
+          "package_name": "com.example.app_peludito"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvDqcZxvQP8gslrhnxgXC75EnEG_JrMiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
